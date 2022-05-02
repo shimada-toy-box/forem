@@ -233,7 +233,7 @@ GEM
       activemodel
     emoji_regex (3.2.3)
     equalizer (0.0.11)
-    erb_lint (0.0.37)
+    erb_lint (0.1.1)
       activesupport
       better_html (~> 1.0.7)
       html_tokenizer
@@ -468,7 +468,7 @@ GEM
     listen (3.7.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
-    loofah (2.16.0)
+    loofah (2.17.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     lumberjack (1.2.8)
@@ -676,7 +676,7 @@ GEM
       redis-store (>= 1.2, < 2)
     redis-store (1.9.0)
       redis (>= 4, < 5)
-    regexp_parser (2.3.0)
+    regexp_parser (2.3.1)
     reline (0.3.1)
       io-console (~> 0.5)
     request_store (1.5.1)
@@ -973,7 +973,7 @@ DEPENDENCIES
   easy_translate (~> 0.5.1)
   email_validator (~> 2.2)
   emoji_regex (~> 3.2)
-  erb_lint (~> 0.0.37)
+  erb_lint (~> 0.1.1)
   exifr (>= 1.3.6)
   factory_bot_rails (~> 6.2)
   faker (~> 2.20)
